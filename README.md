@@ -18,7 +18,7 @@
 |---|---|
 | 엔진·언어 | Unity 2022.3 · C# · JavaScript |
 | 플랫폼 | Android / Appintoss WebGL |
-| 연동 | Firebase Auth · Cloud Firestore · Google Mobile Ads / AdMob |
+| 연동 | Firebase Auth · Cloud Firestore · Google Mobile Ads (AdMob) |
 | 개발·출시 | 개인 프로젝트 · 수동 QA·빌드·업로드 |
 | 실사용 | Appintoss Peak DAU 약 181명 |
 
@@ -27,7 +27,7 @@
 - **투자와 정산:** 투자금·레버리지 선택, 세션 손익 계산과 결과 화면
 - **캔들 베기와 시장 이벤트:** 타깃 판정, 뉴스 퀴즈, 급등·폭락·공매도
 - **부활과 보상:** 보상 광고를 통한 부활·재화 보상, 운세 확인
-- **성장과 꾸미기:**  상점, 아바타·펫·마이룸, 단계별 튜토리얼
+- **성장과 꾸미기:** 상점, 아바타·펫·마이룸, 단계별 튜토리얼
 - **랭킹 시스템:** 최고 자산·최대 베기·일일 베기 랭킹 시스템 제공
 
 [플레이 화면과 기능별 구현](docs/FEATURE_MAP.md)

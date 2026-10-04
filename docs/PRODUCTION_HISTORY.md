@@ -10,7 +10,7 @@
 | 2026년 5월 | MVP와 QA. 테스트하면서 버그 수정과 기능 추가를 병행 |
 | 플랫폼 통합 | Android의 Firebase·AdMob, WebGL의 Appintoss SDK·JavaScript bridge 연결 |
 | 출시 | Google Play Android(2026.05.16) 와 Appintoss WebGL(2026.05.28) 로 공개 |
-| 출시 후 이용 | Appintoss에서 초기 이용이 늘었고 Peak DAU 약 181명 기록 (2026.06.01 ~ 2026.07.01) |
+| 출시 후 이용 | Appintoss에서 초기 이용이 늘었고 Peak DAU 약 181명 기록 (2026.06.01 ~ 2026.07.31) |
 | 플랫폼 대응 | SDK 호출·Safe Area 문제 수정, 이미지·음원 용량 조정 |
 | 업데이트 | 사용자 반응을 보고 패치. 시작·로딩 문제 대응 중 Addressables 시도 후 롤백 |
 | 이후 운영 | 초기 이용 구간 이후 이용 감소, 유지보수 진행. Google Play에는 최신 기능 일부 미반영 |

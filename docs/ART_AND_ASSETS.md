@@ -12,7 +12,11 @@ flowchart LR
     Layout --> Import[Unity sprite와 atlas 적용]
 ```
 
-![캐릭터·아이콘·배경 구성](../media/screenshots/art-and-ui.png)
+<p align="center">
+  <img src="../media/screenshots/art-and-ui.png"
+       alt="캐릭터·아이콘·배경 구성"
+       width="500">
+</p>
 
 캐릭터와 배경, UI에 쓰이는 이미지는 재작화와 배치 과정을 거쳐 Unity sprite로 적용했다.
 

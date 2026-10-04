@@ -23,10 +23,12 @@ Stock Slayer는 투자 준비 → 캔들 베기 → 결과 정산 → 성장·�
 
 메인 → 투자 준비 → 플레이 → 결과 정산
 
+<p align="center">
 <img src="../media/screenshots/main-menu.png" alt="메인화면" width="240">
 <img src="../media/screenshots/investment-menu.png" alt="투자 준비" width="240">
 <img src="../media/screenshots/gameplay-hud.png" alt="게임플레이" width="240">
 <img src="../media/screenshots/session-result.png" alt="결과 정산" width="240">
+</p>
 
 ## 기능 연결
 

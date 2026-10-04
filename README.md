@@ -2,7 +2,9 @@
 
 주식 캔들을 베고 투자금을 정산하는 Unity 2D 게임. Google Play의 Android 앱과 Appintoss의 WebGL 게임으로 출시했다.
 
-![Stock Slayer Gameplay](media/gameplay.gif)
+<p align="center">
+  <img src="media/gameplay.gif" alt="Stock Slayer Gameplay" width="520">
+</p>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.voyagesoft.stockslayer) · [Appintoss](https://minion.toss.im/XLbPneQB) (토스 앱 전용)
 

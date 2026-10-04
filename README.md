@@ -75,7 +75,7 @@ flowchart LR
 
 ## 현재 알려진 문제
 
-일부 Android/iOS 환경에서 시작·로딩 중 흰 화면과 재시작이 발생했다. 정확한 종료 원인은 규명하지 못했으며, [iOS/WebGL 메모리 조사 기록](docs/postmortems/IOS_WEBGL_OOM.md)에 시도와 관찰 내용을 정리했다.
+일부 Android/iOS 환경에서 시작·로딩 중 흰 화면이나 재시작이 발생하는 문제가 있다. 정확한 종료 원인은 아직 규명하지 못했으며, 관련 관찰과 대응 시도는 [iOS/WebGL 메모리 조사 기록](docs/postmortems/IOS_WEBGL_OOM.md)에 정리했다.
 
 ## 소스 공개 범위
 

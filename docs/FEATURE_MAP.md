@@ -24,10 +24,10 @@ Stock Slayer는 투자 준비 → 캔들 베기 → 결과 정산 → 성장·�
 메인 → 투자 준비 → 플레이 → 결과 정산
 
 <p align="center">
-<img src="../media/screenshots/main-menu.png" alt="메인화면" width="240">
-<img src="../media/screenshots/investment-menu.png" alt="투자 준비" width="240">
-<img src="../media/screenshots/gameplay-hud.png" alt="게임플레이" width="240">
-<img src="../media/screenshots/session-result.png" alt="결과 정산" width="240">
+<img src="../media/screenshots/main-menu.png" alt="메인화면" width="220">
+<img src="../media/screenshots/investment-menu.png" alt="투자 준비" width="220">
+<img src="../media/screenshots/gameplay-hud.png" alt="게임플레이" width="220">
+<img src="../media/screenshots/session-result.png" alt="결과 정산" width="220">
 </p>
 
 ## 기능 연결
@@ -49,9 +49,5 @@ flowchart LR
 ```
 
 입력 판정은 타깃 상태와 GameManager로 이어지고, 결과 화면은 경제 계산·기록·광고와 연결된다. 상점과 외형 상태에는 PlayerPrefs를 사용한다.
-
-## 구현 메모
-
-세션은 여러 상태 flag와 coroutine으로 진행하며, UI controller가 manager를 직접 참조한다. 타깃과 일부 효과는 풀에서 재사용하고 오디오·햅틱으로 판정 피드백을 준다. 저장·플랫폼별 분기는 [아키텍처](ARCHITECTURE.md), 자원 정리 시도는 [메모리 조사 기록](postmortems/IOS_WEBGL_OOM.md)에 정리했다. 설정 화면의 알림 toggle은 로컬 값 저장이며 알림 발송 시스템으로 이어지는 기능은 아니다.
 
 [코드 샘플](../samples/README.md)
